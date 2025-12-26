@@ -35,7 +35,7 @@ Base de vendas fictícia (Superstore) obtida no Kaggle.
 
 
 ## Estrutura do Projeto
-
+```
 dashboard-powerbi-superstore/
 │
 ├── dashboard/
@@ -53,7 +53,7 @@ dashboard-powerbi-superstore/
 
 │
 └── README.md
-
+```
 
 
 ## Descrição
@@ -103,9 +103,9 @@ Dimensões: Dim\_Produto; Dim\_Local; Dim\_Tempo; Dim\_Clientes.
 
 ## Principais Insights
 
-* A categoria Technology apresenta o maior faturamento e margem de lucro
-* Algumas subcategorias apresentam alto faturamento com baixa margem
-* O faturamento apresenta crescimento gradual ao longo dos anos analisados
+* A categoria Technology apresenta o maior faturamento e margem de lucro;
+* Algumas subcategorias apresentam alto faturamento com baixa margem;
+* O faturamento apresenta crescimento gradual ao longo dos anos analisados.
 
 
 
@@ -119,4 +119,5 @@ Dimensões: Dim\_Produto; Dim\_Local; Dim\_Tempo; Dim\_Clientes.
 * Uso de Dimensão de Tempo dedicada para análises temporais consistentes;
 * Métricas financeiras implementadas como medidas DAX, assegurando consistência nos totais;
 * Tratamento e organização dos dados realizados no Power Query;
-* Layout desenvolvido com foco em hierarquia visual e facilidade de interpretação
+* Layout desenvolvido com foco em hierarquia visual e facilidade de interpretação.
+
