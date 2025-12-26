@@ -46,11 +46,9 @@ dashboard-powerbi-superstore/
 │
 ├── docs/
 │   └── anotacoes\_modelagem\_e\_dax.md
-
 │
 ├── imagens/
 │   └── dashboard\_preview.png
-
 │
 └── README.md
 ```
@@ -120,4 +118,5 @@ Dimensões: Dim\_Produto; Dim\_Local; Dim\_Tempo; Dim\_Clientes.
 * Métricas financeiras implementadas como medidas DAX, assegurando consistência nos totais;
 * Tratamento e organização dos dados realizados no Power Query;
 * Layout desenvolvido com foco em hierarquia visual e facilidade de interpretação.
+
 
